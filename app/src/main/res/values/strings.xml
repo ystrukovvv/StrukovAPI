@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">StrukovAPI</string>
+    <string name="AddPlayer">Добавить игрока</string>
+    <string name="Players">Игроки</string>
+
+    <string name="name">Имя</string>
+    <string name="id">Position id</string>
+    <string name="yearOfBirth">Год рождения</string>
+    <string name="yearOfEntry">Год вступления</string>
+    <string name="weight">Вес</string>
+    <string name="height">Рост</string>
+    <string name="code">Код страны</string>
+    <string name="college">Колледж</string>
+    <string name="btnAdd">Добавить</string>
+
+    <string name="btnGet">Получить</string>
+    <string name="Playerid">Player id</string>
+</resources>
